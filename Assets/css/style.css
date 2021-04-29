@@ -1,0 +1,72 @@
+* {
+    margin: 0px;
+}
+
+.team{
+    background-color: #000000;
+    text-align: center;
+    padding: 30px 0px;
+    width: 25%;
+    float: left;
+}
+
+h1 {
+    font-family: impact;
+    color: red;
+    font-size: 80px;
+}
+
+h1 span{
+    font-family: impact;
+    color: blue;
+    font-size:50px;
+}
+
+.team img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+}
+
+.team h1{
+    font-family: impact;
+    font-weight: normal;
+    color: #fff;
+    font-size: 30px;
+}
+
+.team h2{
+    font-family: impact;
+    font-weight: normal;
+    color: #fff;
+    font-size: 30px;
+}
+
+.team h3{
+    font-family: 'Merienda', cursive;
+    font-weight: normal;
+    color: #00ff;
+    font-size: 30px;
+}
+
+.team p{
+    font-family: 'Allura', cursive;
+    color: #fff000;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.team:hover team-img {
+  
+}
+
+.team img:focus{
+    
+}
+
+ 
+.team img:active{
+    border: 5px groove yellow ;
+}
+
